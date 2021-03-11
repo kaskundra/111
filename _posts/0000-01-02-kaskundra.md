@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: slide show
+title: "Welcome to our second slide! get well"
 ---
-Your text
-Use the left arrow to go back!
+Your text here
+Use the left arrow to go back! or don't use
